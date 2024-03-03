@@ -1,0 +1,71 @@
+
+This is comment: **-Directives-**
+Directive Included
+Directive Included
+
+This is comment: **-Declarations and assignment-**
+u declared with value 6  
+v declared with value 5  
+b declared with value 10  
+d declared with value 1  
+e declared with value 9  
+a declared
+c declared
+12 is assigned to c
+di declared with value 8.900000
+
+This is comment: **-Input-**
+Input taken for a
+
+This is comment: **-Output-**
+Value of b is : 10
+printed:  sadia 
+
+This is comment: **-User defined function-**
+
+This is comment: **-Function Call-**
+
+This is comment: **-mathematical functions-**
+3 is a prime number.
+
+This is comment: **-for loop-**
+Value of b is : 10
+
+for loop started
+At 1 no execution 
+At 2 no execution 
+At 3 no execution 
+for loop ended
+
+This is comment: **-while loop-**
+flt declared
+
+5At 1 no. execution
+At 2 no. execution
+At 3 no. execution
+At 4 no. execution
+At 5 no. execution
+
+This is comment: **-If Conditions-**
+If block: True
+Value of d is : 1
+If block: False
+kl declared with value 9.800000
+t4 declared
+If block executed
+Else block: False
+If block executed
+
+This is comment: **-Switch case Conditions-**
+case 4 is false 
+11 is assigned to d
+statement
+b
+case 2 is false 
+12 is assigned to d
+statement
+b
+Default case 
+13 is assigned to d
+switch block ended
+succesfully compiled

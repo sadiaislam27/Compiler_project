@@ -1,0 +1,80 @@
+function main()
+**-Directives-**
+directive <stdio.h>
+directive <stdlib.l>
+
+start
+**-Declarations and assignment-**
+integer u=6;
+integer v=5;
+integer b=10;
+integer d=1,e=9;
+integer a,c;
+c=12;
+float di=8.9;
+
+**-Input-**
+take(a);
+
+**-Output-**
+show(b);
+show (" sadia ");
+
+**-User defined function-**
+
+
+**-Function Call-**
+
+
+
+**-mathematical functions-**
+prime(3);
+
+
+**-for loop-**
+for b : 10 to 13
+start
+show(b);
+end
+
+**-while loop-**
+while < 5 lt 10>
+start
+float flt;
+end
+
+**-If Conditions-**
+iff <3 lt 5>
+{
+show(d);
+iff <3 gt 5>
+{
+float kl=9.8;
+integer t4;
+}
+}
+else
+{
+;
+}
+
+**-Switch case Conditions-**
+switch < 5 > :
+start 
+	case ( 2 + 2 ) :
+	 d= 10 + 1 
+	 break
+
+	case ( 1 + 1 ) :
+	 d= 10 + 2 
+	 break
+
+	default :
+	 d= 10 + 3 
+	
+	 break
+end
+
+
+  
+end
